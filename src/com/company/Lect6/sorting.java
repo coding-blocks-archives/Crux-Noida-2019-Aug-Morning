@@ -1,12 +1,14 @@
-package com.company.Lect5;
+package com.company.Lect6;
+
+import com.company.Lect5.Util;
 
 import java.util.Arrays;
 
 public class sorting {
 
     public static void main(String[] args) {
-        int ar[]={5,4,9,3,2,1};
-        selectionsort(ar);
+        int ar[]={1,2,3,4,5};
+        insertion(ar);
         System.out.println(Arrays.toString(ar));
     }
 
