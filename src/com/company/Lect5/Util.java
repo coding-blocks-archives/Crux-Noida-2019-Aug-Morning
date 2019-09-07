@@ -9,18 +9,18 @@ public class Util {
         int ar[]={1,2,9,3,4,5};
 
         System.out.println(Arrays.toString(ar));
-        swap(ar);
+//        swap(ar);
         System.out.println(Arrays.toString(ar));
 
-        System.out.println(maxindex(ar));
+//        System.out.println(maxindex(ar));
 
     }
 
-    public static void swap(int[] ar){
+    public static void swap(int[] ar,int first ,int second){
 
-        int temp=ar[1];
-        ar[1]=ar[2];
-        ar[2]=temp;
+        int temp=ar[first];
+        ar[first]=ar[second];
+        ar[second]=temp;
     }
 
     public static void inc(int[] ar){
@@ -44,11 +44,11 @@ public class Util {
         return max;
     }
 
-    public static int maxindex(int[] ar){
+    public static int maxindex(int[] ar, int start ,int end){
 
-        int max=0;
+        int max=start;
 
-        for (int i = 1; i <ar.length ; i++) {
+        for (int i = 1; i <=end ; i++) {
 
             if(ar[max]<ar[i]){
                 max = i;

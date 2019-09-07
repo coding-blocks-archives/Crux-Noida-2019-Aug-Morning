@@ -6,7 +6,7 @@ public class sorting {
 
     public static void main(String[] args) {
         int ar[]={5,4,9,3,2,1};
-        bubblesort(ar);
+        selectionsort(ar);
         System.out.println(Arrays.toString(ar));
     }
 
@@ -22,10 +22,19 @@ public class sorting {
                     ar[j]=ar[j+1];
                     ar[j+1]=temp;
                 }
-
-//                Util.maxindex()
-
             }
         }
+    }
+
+    public static void selectionsort(int ar[]){
+
+
+        for (int i = 0; i <ar.length ; i++) {
+
+            int max= Util.maxindex(ar,0,ar.length-i-1);
+
+            Util.swap(ar,max,ar.length-i-1);
+        }
+
     }
 }
