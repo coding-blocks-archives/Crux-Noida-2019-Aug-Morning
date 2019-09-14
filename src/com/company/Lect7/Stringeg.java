@@ -15,6 +15,8 @@ public class Stringeg {
         System.out.println(s.substring(1,4));
         substrings(s);
 
+        System.out.println(pallindrome("aba"));
+
         s.indexOf("H");
     }
 
@@ -28,7 +30,6 @@ public class Stringeg {
                 System.out.println(s.substring(i,j));
             }
         }
-
     }
 
     public static boolean pallindrome(String s){
