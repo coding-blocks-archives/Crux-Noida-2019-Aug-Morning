@@ -4,6 +4,7 @@ public class Subrecursioneg {
 
     public static void main(String[] args) {
         pattern(4,0);
+        pattern2(4,0);
     }
 
     public static void pattern(int row, int col){
@@ -31,13 +32,13 @@ public class Subrecursioneg {
 
         if(row==col){
 
-            pattern(row-1,0);
+            pattern2(row-1,0);
             System.out.println();
             return;
         }
 
 
-        pattern(row,col+1);
+        pattern2(row,col+1);
         System.out.print("*");
     }
 }
