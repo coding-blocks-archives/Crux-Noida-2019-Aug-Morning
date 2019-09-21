@@ -1,5 +1,7 @@
 package com.company.lect9;
 
+import java.util.ArrayList;
+
 public class MazePath {
 
     public static void main(String[] args) {
@@ -12,7 +14,7 @@ public class MazePath {
             System.out.println(processed);
             return;
         }
-
+        ArrayList list = new ArrayList();
         if(row>1){
             mazepath(processed+"V",row-1,col);
         }
