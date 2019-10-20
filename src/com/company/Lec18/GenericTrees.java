@@ -1,6 +1,8 @@
 package com.company.Lec18;
 
 import java.util.ArrayList;
+import java.util.LinkedList;
+import java.util.Queue;
 import java.util.Scanner;
 
 public class GenericTrees {
@@ -99,6 +101,27 @@ public class GenericTrees {
         }
 
         return 1+maxheight;
+    }
+
+    public void levelorder(){
+
+        levelorder(root);
+    }
+
+    private void levelorder(Node node) {
+
+     Queue<Node> queue =new LinkedList<>();
+     queue.add(node);
+
+     while(!queue.isEmpty()){
+         Node temp= queue.remove();
+         System.out.println(temp.value);
+         for (int i = 0; i <temp.children.size() ; i++) {
+             Node child =temp.children.get(i);
+             queue.add(child);
+         }
+     }
+
     }
 
     public void maxvalue(){
