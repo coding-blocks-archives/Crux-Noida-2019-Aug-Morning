@@ -15,6 +15,8 @@ public class BInaryTreeClient {
         tree.insert(s);
         tree.insert(s);
         tree.mirror();
+        System.out.println(tree.diameter());
+        System.out.println(tree.find(190));
         tree.display();
     }
 }
