@@ -1,6 +1,4 @@
-package com.company.lec22;
-
-import com.company.lec23.MapUsingAL;
+package com.company.lec23;
 
 public class Client {
 
