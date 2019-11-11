@@ -28,7 +28,6 @@ public class MapUsingAL<K,V> {
     public void put(K key, V value){
 
         int hashcode = Math.abs(key.hashCode() % entities.size());
-
         LinkedList<Entity> list = entities.get(hashcode);
 
         for (Entity entity: list) {
@@ -38,6 +37,7 @@ public class MapUsingAL<K,V> {
                 return;
             }
         }
+
 
         if(((float)(size))/entities.size()>lf){
             rehash();
@@ -52,11 +52,11 @@ public class MapUsingAL<K,V> {
 
         ArrayList<LinkedList<Entity>> old =entities;
         entities=new ArrayList<>();
-
+        System.out.println("double up");
         for (int i = 0; i <old.size()*2 ; i++) {
             entities.add(new LinkedList<>());
         }
-
+        size=0;    //making size 0 again is also a step which we can consider.
         for (LinkedList<Entity> list: old) {
 
             for (Entity entity: list) {
