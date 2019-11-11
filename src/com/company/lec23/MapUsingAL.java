@@ -52,7 +52,6 @@ public class MapUsingAL<K,V> {
 
         ArrayList<LinkedList<Entity>> old =entities;
         entities=new ArrayList<>();
-        System.out.println("double up");
         for (int i = 0; i <old.size()*2 ; i++) {
             entities.add(new LinkedList<>());
         }
