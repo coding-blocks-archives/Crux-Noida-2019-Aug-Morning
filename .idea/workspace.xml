@@ -2,16 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a119896a-c69e-4c0f-9967-eeb1c6e4d308" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/company/Lec24/AdjacencyListGraph.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Lec24/listclient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Lec26/EditDistance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Lec26/Fibo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Lec26/LCS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Lec26/MazePathDp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Lec26/diceDp.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Crux-Noida-2019-Aug-Morning/com/company/lec23/MapUsingAL$Entity.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Crux-Noida-2019-Aug-Morning/com/company/lec23/MapUsingAL$Entity.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Crux-Noida-2019-Aug-Morning/com/company/lec23/MapUsingAL.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Crux-Noida-2019-Aug-Morning/com/company/lec23/MapUsingAL.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Lec26/EditDistance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Lec26/EditDistance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Lec26/LCS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Lec26/LCS.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,36 +15,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/lec23/MapUsingAL.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="765">
-              <caret line="54" column="8" selection-start-line="54" selection-start-column="8" selection-end-line="54" selection-end-column="8" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/jdk/src.zip!/java/util/LinkedList.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1245">
-              <caret line="106" selection-start-line="106" selection-end-line="106" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/lec23/Client.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="8" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/lec23/AdjacencyListGraph.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -64,8 +27,35 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/Lec24/AdjacencyListGraph.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2799">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            <state relative-caret-position="720">
+              <caret line="50" column="49" selection-start-line="50" selection-start-column="49" selection-end-line="50" selection-end-column="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Lec26/MazePathDp.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Lec26/LCS.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="23">
+              <caret line="31" column="21" selection-start-line="31" selection-start-column="21" selection-end-line="31" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Lec26/EditDistance.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="825">
+              <caret line="55" column="45" selection-start-line="55" selection-start-column="45" selection-end-line="55" selection-end-column="45" />
             </state>
           </provider>
         </entry>
@@ -75,25 +65,29 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/company/Lec25/Main.java">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/lec23/Listgraphclient.java">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Lec25/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="31" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
+            <state relative-caret-position="60">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/lec22/Client.java">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Lec25/AdjacencyMapgraph.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            <state relative-caret-position="1410">
+              <caret line="96" selection-start-line="96" selection-end-line="96" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Lec25/graphclient.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -131,9 +125,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/company/Lec13/PetrolEngine.java" />
-        <option value="$PROJECT_DIR$/src/com/company/Lec13/Engine.java" />
-        <option value="$PROJECT_DIR$/src/com/company/Lec13/QueueClient.java" />
         <option value="$PROJECT_DIR$/src/com/company/Lec13/CircularQueue.java" />
         <option value="$PROJECT_DIR$/src/com/company/Lec13/Client.java" />
         <option value="$PROJECT_DIR$/src/com/company/Lec14/ArrayClient.java" />
@@ -182,6 +173,9 @@
         <option value="$PROJECT_DIR$/src/com/company/Lec24/AdjacencyListGraph.java" />
         <option value="$PROJECT_DIR$/src/com/company/Lec26/diceDp.java" />
         <option value="$PROJECT_DIR$/src/com/company/Lec25/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Lec25/AdjacencyMapgraph.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Lec26/LCS.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Lec26/EditDistance.java" />
       </list>
     </option>
   </component>
@@ -195,10 +189,56 @@
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes />
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Crux-Noida-2019-Aug-Morning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Crux-Noida-2019-Aug-Morning" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Crux-Noida-2019-Aug-Morning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Crux-Noida-2019-Aug-Morning" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Crux-Noida-2019-Aug-Morning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Crux-Noida-2019-Aug-Morning" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="company" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Crux-Noida-2019-Aug-Morning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Crux-Noida-2019-Aug-Morning" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="company" type="462c0819:PsiDirectoryNode" />
+              <item name="Lec24" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Crux-Noida-2019-Aug-Morning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Crux-Noida-2019-Aug-Morning" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="company" type="462c0819:PsiDirectoryNode" />
+              <item name="Lec25" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Crux-Noida-2019-Aug-Morning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Crux-Noida-2019-Aug-Morning" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="company" type="462c0819:PsiDirectoryNode" />
+              <item name="Lec26" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1574450437618" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1576529466454" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
@@ -206,8 +246,12 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="com.company.Lec12" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/com/company/Lec25" />
+      <recent name="$PROJECT_DIR$/src/com/company/Lec26" />
+      <recent name="$PROJECT_DIR$/src/com/company/Lec24" />
+      <recent name="$PROJECT_DIR$/src/com/company/Lec20" />
+      <recent name="$PROJECT_DIR$/src/com/company/Lec19" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.company.lec23" />
@@ -216,12 +260,8 @@
       <recent name="com.company.Lec15" />
       <recent name="com.company.Lec14" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/com/company/Lec20" />
-      <recent name="$PROJECT_DIR$/src/com/company/Lec19" />
-      <recent name="$PROJECT_DIR$/src/com/company" />
-      <recent name="$PROJECT_DIR$/src/com/company/lect11" />
-      <recent name="$PROJECT_DIR$/src/com/company/Lect2" />
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.company.Lec12" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -236,7 +276,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Client">
+  <component name="RunManager" selected="Application.LCS">
     <configuration name="Client (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.lec23.Client" />
       <module name="Crux-Noida-2019-Aug-Morning" />
@@ -263,12 +303,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HashmapEg" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Lec21.HashmapEg" />
+    <configuration name="LCS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Lec26.LCS" />
       <module name="Crux-Noida-2019-Aug-Morning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.Lec21.*" />
+          <option name="PATTERN" value="com.company.Lec26.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -304,11 +344,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LCS" />
         <item itemvalue="Application.Client" />
         <item itemvalue="Application.Client (1)" />
         <item itemvalue="Application.Listgraphclient" />
         <item itemvalue="Application.SudokuSolver" />
-        <item itemvalue="Application.HashmapEg" />
       </list>
     </recent_temporary>
   </component>
@@ -326,9 +366,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="57" y="-4" width="1309" height="772" extended-state="6" />
+    <frame x="57" y="-4" width="1309" height="772" extended-state="7" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.53602535" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.5415677" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -337,7 +378,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32868218" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.6356589" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.63484085" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.30697674" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -609,48 +650,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/company/Lec13/CircularQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="30" selection-start-line="30" selection-end-line="30" />
-          <folding>
-            <element signature="e#568#569#0" expanded="true" />
-            <element signature="e#598#599#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Lec13/Client.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Lec13/Engine.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Lec13/PetrolEngine.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="16" column="16" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Lec14/ArrayClient.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="45" selection-start-line="12" selection-start-column="45" selection-end-line="12" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Lec14/CircularQueue.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
@@ -978,13 +977,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/jdk/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21015">
-          <caret line="1464" column="15" selection-start-line="1464" selection-start-column="15" selection-end-line="1464" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/lec23/AdjacencyListGraph.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="555">
@@ -994,8 +986,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Lec24/AdjacencyListGraph.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2799">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        <state relative-caret-position="720">
+          <caret line="50" column="49" selection-start-line="50" selection-start-column="49" selection-end-line="50" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Lec26/MazePathDp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Lec26/EditDistance.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="825">
+          <caret line="55" column="45" selection-start-line="55" selection-start-column="45" selection-end-line="55" selection-end-column="45" />
         </state>
       </provider>
     </entry>
@@ -1003,7 +1009,39 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Lec25/Main.java">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Lec25/AdjacencyMapgraph.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1410">
+          <caret line="96" selection-start-line="96" selection-end-line="96" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Lec25/graphclient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/jdk/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21015">
+          <caret line="1464" column="15" selection-start-line="1464" selection-start-column="15" selection-end-line="1464" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Lec26/LCS.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="31" column="21" selection-start-line="31" selection-start-column="21" selection-end-line="31" selection-end-column="21" />
+        </state>
+      </provider>
     </entry>
   </component>
   <component name="masterDetails">
